@@ -1,0 +1,299 @@
+2021-04-20 06:43:34 +0000  Initial pipeline context: <IDEDistributionProcessingPipelineContext: 0x7f986a10b8f0; archive(resolved)='<IDEArchive: 0x7f9867f2ea70>', distributionTask(resolved)='2', distributionDestination(resolved)='1', distributionMethod(resolved)='<IDEDistributionMethodiOSAdHoc: 0x7f988f62aa40>', team(resolved)='<IDEProvisioningDisambiguatableBasicTeam: 0x7f988dd8b120; teamID='9QTQNW5XVD', teamName='ZOUSTEC TECHNOLOGIES CO. LTD', teamType='Company', username='larry.hsu@zoustec.com', isFreeProvisioningTeam='0'>'>
+	Chain (14, self inclusive):
+	<IDEDistributionProcessingPipelineContext: 0x7f986a10b8f0; archive = '<IDEArchive: 0x7f9867f2ea70>', distributionMethod='<IDEDistributionMethodiOSAdHoc: 0x7f988f62aa40>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7f988dd8b120; teamID='9QTQNW5XVD', teamName='ZOUSTEC TECHNOLOGIES CO. LTD', teamType='Company', username='larry.hsu@zoustec.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionProcessingPipelineContext: 0x7f9867f19e70; archive = '<IDEArchive: 0x7f9867f2ea70>', distributionMethod='<IDEDistributionMethodiOSAdHoc: 0x7f988f62aa40>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7f988dd8b120; teamID='9QTQNW5XVD', teamName='ZOUSTEC TECHNOLOGIES CO. LTD', teamType='Company', username='larry.hsu@zoustec.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7f986a184f30; archive = '<IDEArchive: 0x7f9867f2ea70>', distributionMethod='<IDEDistributionMethodiOSAdHoc: 0x7f988f62aa40>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7f988dd8b120; teamID='9QTQNW5XVD', teamName='ZOUSTEC TECHNOLOGIES CO. LTD', teamType='Company', username='larry.hsu@zoustec.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7f988dc825d0; archive = '<IDEArchive: 0x7f9867f2ea70>', distributionMethod='<IDEDistributionMethodiOSAdHoc: 0x7f988f62aa40>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7f988dd8b120; teamID='9QTQNW5XVD', teamName='ZOUSTEC TECHNOLOGIES CO. LTD', teamType='Company', username='larry.hsu@zoustec.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7f986a16b770; archive = '<IDEArchive: 0x7f9867f2ea70>', distributionMethod='<IDEDistributionMethodiOSAdHoc: 0x7f988f62aa40>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7f988dd8b120; teamID='9QTQNW5XVD', teamName='ZOUSTEC TECHNOLOGIES CO. LTD', teamType='Company', username='larry.hsu@zoustec.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7f986a1a4a90; archive = '<IDEArchive: 0x7f9867f2ea70>', distributionMethod='<IDEDistributionMethodiOSAdHoc: 0x7f988f62aa40>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7f988dd8b120; teamID='9QTQNW5XVD', teamName='ZOUSTEC TECHNOLOGIES CO. LTD', teamType='Company', username='larry.hsu@zoustec.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7f986a10f6b0; archive = '<IDEArchive: 0x7f9867f2ea70>', distributionMethod='<IDEDistributionMethodiOSAdHoc: 0x7f988f62aa40>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7f988dd8b120; teamID='9QTQNW5XVD', teamName='ZOUSTEC TECHNOLOGIES CO. LTD', teamType='Company', username='larry.hsu@zoustec.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7f986a158140; archive = '<IDEArchive: 0x7f9867f2ea70>', distributionMethod='<IDEDistributionMethodiOSAdHoc: 0x7f988f62aa40>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7f988dd8b120; teamID='9QTQNW5XVD', teamName='ZOUSTEC TECHNOLOGIES CO. LTD', teamType='Company', username='larry.hsu@zoustec.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7f986888a2f0; archive = '<IDEArchive: 0x7f9867f2ea70>', distributionMethod='<IDEDistributionMethodiOSAdHoc: 0x7f988f62aa40>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7f988dd8b120; teamID='9QTQNW5XVD', teamName='ZOUSTEC TECHNOLOGIES CO. LTD', teamType='Company', username='larry.hsu@zoustec.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7f98783adbe0; archive = '<IDEArchive: 0x7f9867f2ea70>', distributionMethod='<IDEDistributionMethodiOSAdHoc: 0x7f988f62aa40>', team='(null)'>
+	<IDEDistributionContext: 0x7f986883eee0; archive = '<IDEArchive: 0x7f9867f2ea70>', distributionMethod='<IDEDistributionMethodiOSAdHoc: 0x7f988f62aa40>', team='(null)'>
+	<IDEDistributionContext: 0x7f986881a070; archive = '<IDEArchive: 0x7f9867f2ea70>', distributionMethod='<IDEDistributionMethodiOSAdHoc: 0x7f988f62aa40>', team='(null)'>
+	<IDEDistributionContext: 0x7f9878352310; archive = '<IDEArchive: 0x7f9867f2ea70>', distributionMethod='<IDEDistributionMethodiOSAdHoc: 0x7f988f62aa40>', team='(null)'>
+	<IDEDistributionContext: 0x7f9867f17950; archive = '<IDEArchive: 0x7f9867f2ea70>', distributionMethod='(null)', team='(null)'>
+</IDEDistributionProcessingPipelineContext: 0x7f986a10b8f0>
+2021-04-20 06:43:34 +0000  Processing step: IDEDistributionCreateDestRootStep
+2021-04-20 06:43:34 +0000  Processing step: IDEDistributionCopyItemStep
+2021-04-20 06:43:34 +0000  Running /usr/bin/ditto '-V' '/Users/joanna31215/Library/Developer/Xcode/Archives/2021-04-20/Unity-iPhone 2021-4-20, 2.30 PM.xcarchive/Products/Applications/ARFoundationDemo.app' '/var/folders/50/jn5_ssv17lzdw5tx7_3942vw0000gn/T/XcodeDistPipeline.~~~TszjlZ/Root/Payload/ARFoundationDemo.app'
+2021-04-20 06:43:34 +0000  >>> Copying /Users/joanna31215/Library/Developer/Xcode/Archives/2021-04-20/Unity-iPhone 2021-4-20, 2.30 PM.xcarchive/Products/Applications/ARFoundationDemo.app 
+2021-04-20 06:43:34 +0000  copying file ./_CodeSignature/CodeResources ... 
+2021-04-20 06:43:34 +0000  13621 bytes for ./_CodeSignature/CodeResources
+2021-04-20 06:43:34 +0000  copying file ./LaunchScreen-iPhonePortrait.png ... 
+2021-04-20 06:43:34 +0000  138 bytes for ./LaunchScreen-iPhonePortrait.png
+2021-04-20 06:43:34 +0000  copying file ./LaunchScreen-iPhoneLandscape.png ... 
+2021-04-20 06:43:34 +0000  138 bytes for ./LaunchScreen-iPhoneLandscape.png
+2021-04-20 06:43:34 +0000  copying file ./ARFoundationDemo ... 
+2021-04-20 06:43:34 +0000  201232 bytes for ./ARFoundationDemo
+2021-04-20 06:43:34 +0000  copying file ./AppIcon60x60@2x.png ... 
+2021-04-20 06:43:34 +0000  2149 bytes for ./AppIcon60x60@2x.png
+2021-04-20 06:43:34 +0000  copying file ./AppIcon60x60@3x.png ... 
+2021-04-20 06:43:34 +0000  3144 bytes for ./AppIcon60x60@3x.png
+2021-04-20 06:43:34 +0000  copying file ./LaunchScreen-iPad.png ... 
+2021-04-20 06:43:34 +0000  138 bytes for ./LaunchScreen-iPad.png
+2021-04-20 06:43:34 +0000  copying file ./LaunchScreen-iPad.storyboardc/UIViewController-UnityLaunchScreen-ViewController.nib ... 
+2021-04-20 06:43:34 +0000  934 bytes for ./LaunchScreen-iPad.storyboardc/UIViewController-UnityLaunchScreen-ViewController.nib
+2021-04-20 06:43:34 +0000  copying file ./LaunchScreen-iPad.storyboardc/UnityLaunchScreen-ViewController-view-UnityLaunchScreen-RootView.nib ... 
+2021-04-20 06:43:34 +0000  2392 bytes for ./LaunchScreen-iPad.storyboardc/UnityLaunchScreen-ViewController-view-UnityLaunchScreen-RootView.nib
+2021-04-20 06:43:34 +0000  copying file ./LaunchScreen-iPad.storyboardc/Info.plist ... 
+2021-04-20 06:43:34 +0000  333 bytes for ./LaunchScreen-iPad.storyboardc/Info.plist
+2021-04-20 06:43:34 +0000  copying file ./Assets.car ... 
+2021-04-20 06:43:34 +0000  29624 bytes for ./Assets.car
+2021-04-20 06:43:34 +0000  copying file ./AppIcon76x76@2x~ipad.png ... 
+2021-04-20 06:43:34 +0000  2663 bytes for ./AppIcon76x76@2x~ipad.png
+2021-04-20 06:43:34 +0000  copying file ./AppIcon83.5x83.5@2x~ipad.png ... 
+2021-04-20 06:43:34 +0000  2949 bytes for ./AppIcon83.5x83.5@2x~ipad.png
+2021-04-20 06:43:34 +0000  copying file ./LaunchScreen-iPhone.storyboardc/UIViewController-UnityLaunchScreen-ViewController.nib ... 
+2021-04-20 06:43:34 +0000  934 bytes for ./LaunchScreen-iPhone.storyboardc/UIViewController-UnityLaunchScreen-ViewController.nib
+copying file ./LaunchScreen-iPhone.storyboardc/UnityLaunchScreen-ViewController-view-UnityLaunchScreen-RootView.nib ... 
+2021-04-20 06:43:34 +0000  2402 bytes for ./LaunchScreen-iPhone.storyboardc/UnityLaunchScreen-ViewController-view-UnityLaunchScreen-RootView.nib
+2021-04-20 06:43:34 +0000  copying file ./LaunchScreen-iPhone.storyboardc/Info.plist ... 
+2021-04-20 06:43:34 +0000  333 bytes for ./LaunchScreen-iPhone.storyboardc/Info.plist
+2021-04-20 06:43:34 +0000  copying file ./Frameworks/UnityFramework.framework/_CodeSignature/CodeResources ... 
+2021-04-20 06:43:34 +0000  1798 bytes for ./Frameworks/UnityFramework.framework/_CodeSignature/CodeResources
+2021-04-20 06:43:34 +0000  copying file ./Frameworks/UnityFramework.framework/Info.plist ... 
+2021-04-20 06:43:34 +0000  758 bytes for ./Frameworks/UnityFramework.framework/Info.plist
+2021-04-20 06:43:34 +0000  copying file ./Frameworks/UnityFramework.framework/UnityFramework ... 
+2021-04-20 06:43:34 +0000  303347504 bytes for ./Frameworks/UnityFramework.framework/UnityFramework
+2021-04-20 06:43:34 +0000  copying file ./embedded.mobileprovision ... 
+2021-04-20 06:43:34 +0000  17471 bytes for ./embedded.mobileprovision
+2021-04-20 06:43:34 +0000  copying file ./Data/Managed/TypesInScenes.xml ... 
+2021-04-20 06:43:34 +0000  6968 bytes for ./Data/Managed/TypesInScenes.xml
+2021-04-20 06:43:34 +0000  copying file ./Data/Managed/Resources/mscorlib.dll-resources.dat ... 
+2021-04-20 06:43:34 +0000  337563 bytes for ./Data/Managed/Resources/mscorlib.dll-resources.dat
+2021-04-20 06:43:34 +0000  copying file ./Data/Managed/UnityLinkerToEditorData.json ... 
+11278 bytes for ./Data/Managed/UnityLinkerToEditorData.json
+2021-04-20 06:43:34 +0000  copying file ./Data/Managed/mono/4.0/machine.config ... 
+33648 bytes for ./Data/Managed/mono/4.0/machine.config
+copying file ./Data/Managed/EditorToUnityLinkerData.json ... 
+2021-04-20 06:43:34 +0000  81336 bytes for ./Data/Managed/EditorToUnityLinkerData.json
+copying file ./Data/Managed/response.rsp ... 
+1653 bytes for ./Data/Managed/response.rsp
+copying file ./Data/Managed/Metadata/global-metadata.dat ... 
+2021-04-20 06:43:34 +0000  2416452 bytes for ./Data/Managed/Metadata/global-metadata.dat
+2021-04-20 06:43:34 +0000  copying file ./Data/globalgamemanagers ... 
+57908 bytes for ./Data/globalgamemanagers
+copying file ./Data/boot.config ... 
+62 bytes for ./Data/boot.config
+copying file ./Data/Resources/unity_builtin_extra ... 
+544272 bytes for ./Data/Resources/unity_builtin_extra
+copying file ./Data/unity default resources ... 
+2021-04-20 06:43:34 +0000  6347356 bytes for ./Data/unity default resources
+copying file ./Data/sharedassets0.assets.resS ... 
+2021-04-20 06:43:34 +0000  8421628 bytes for ./Data/sharedassets0.assets.resS
+2021-04-20 06:43:34 +0000  copying file ./Data/sharedassets0.assets ... 
+2021-04-20 06:43:34 +0000  5045244 bytes for ./Data/sharedassets0.assets
+2021-04-20 06:43:34 +0000  copying file ./Data/level0 ... 
+2021-04-20 06:43:34 +0000  49888 bytes for ./Data/level0
+2021-04-20 06:43:34 +0000  copying file ./Data/globalgamemanagers.assets ... 
+2021-04-20 06:43:34 +0000  98188 bytes for ./Data/globalgamemanagers.assets
+2021-04-20 06:43:34 +0000  copying file ./Data/UnitySubsystems/UnityARKit/UnitySubsystemsManifest.json ... 
+2021-04-20 06:43:34 +0000  206 bytes for ./Data/UnitySubsystems/UnityARKit/UnitySubsystemsManifest.json
+2021-04-20 06:43:34 +0000  copying file ./Info.plist ... 
+2021-04-20 06:43:34 +0000  1873 bytes for ./Info.plist
+2021-04-20 06:43:34 +0000  copying file ./PkgInfo ... 
+2021-04-20 06:43:34 +0000  8 bytes for ./PkgInfo
+2021-04-20 06:43:34 +0000  copying file ./AppIcon76x76~ipad.png ... 
+2021-04-20 06:43:34 +0000  2929 bytes for ./AppIcon76x76~ipad.png
+2021-04-20 06:43:34 +0000  /usr/bin/ditto exited with 0
+2021-04-20 06:43:34 +0000  Processing step: IDEDistributionEmbedProfileStep
+2021-04-20 06:43:34 +0000  Skipping profile for item: <IDEDistributionItem: 0x7f986a0570f0; bundleID='com.unity3d.framework', path='<DVTFilePath:0x7f98780f6e10:'/Users/joanna31215/Library/Developer/Xcode/Archives/2021-04-20/Unity-iPhone 2021-4-20, 2.30 PM.xcarchive/Products/Applications/ARFoundationDemo.app/Frameworks/UnityFramework.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f98679f17a0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f988bc61d70; name='Apple Development: Yi Jyun Lin (486YWZ6D36)', hash='D1574CE5364B231E87E35F7886ACA505E6BE532F', serialNumber='<DVTSigningCertificateSerialNumber: 0x7f988f1ea8d0>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-02-03 06:43:01 +0000''>', entitlements='(null)', teamID='9QTQNW5XVD', identifier='com.unity3d.framework', executablePath='<DVTFilePath:0x7f986a3d9b10:'/Users/joanna31215/Library/Developer/Xcode/Archives/2021-04-20/Unity-iPhone 2021-4-20, 2.30 PM.xcarchive/Products/Applications/ARFoundationDemo.app/Frameworks/UnityFramework.framework/UnityFramework'>', hardenedRuntime='0'>'>
+2021-04-20 06:43:34 +0000  Processing step: IDEDistributionInfoPlistStep
+2021-04-20 06:43:34 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2021-04-20 06:43:34 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2021-04-20 06:43:34 +0000  Processing step: IDEDistributionAppThinningPlistStep
+2021-04-20 06:43:34 +0000  Skipping step: IDEDistributionAppThinningPlistStep because it said so
+2021-04-20 06:43:34 +0000  Processing step: IDEDistributionCompileBitcodeStep
+2021-04-20 06:43:34 +0000  Skipping step: IDEDistributionCompileBitcodeStep because it said so
+2021-04-20 06:43:34 +0000  Processing step: IDEDistributionCodeSlimmingStep
+2021-04-20 06:43:35 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip '/var/folders/50/jn5_ssv17lzdw5tx7_3942vw0000gn/T/XcodeDistPipeline.~~~TszjlZ/Root/Payload/ARFoundationDemo.app/Frameworks/UnityFramework.framework/UnityFramework' '-r' '-o' '/var/folders/50/jn5_ssv17lzdw5tx7_3942vw0000gn/T/XcodeDistPipeline.~~~TszjlZ/Root/Payload/ARFoundationDemo.app/Frameworks/UnityFramework.framework/UnityFramework'
+2021-04-20 06:43:36 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip exited with 0
+2021-04-20 06:43:36 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip '/var/folders/50/jn5_ssv17lzdw5tx7_3942vw0000gn/T/XcodeDistPipeline.~~~TszjlZ/Root/Payload/ARFoundationDemo.app/ARFoundationDemo' '-r' '-o' '/var/folders/50/jn5_ssv17lzdw5tx7_3942vw0000gn/T/XcodeDistPipeline.~~~TszjlZ/Root/Payload/ARFoundationDemo.app/ARFoundationDemo'
+2021-04-20 06:43:36 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip exited with 0
+2021-04-20 06:43:36 +0000  Processing step: IDEDistributionCopyBCSymbolMapsStep
+2021-04-20 06:43:36 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
+2021-04-20 06:43:36 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
+2021-04-20 06:43:36 +0000  Processing step: IDEDistributionSymbolsStep
+2021-04-20 06:43:36 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2021-04-20 06:43:36 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2021-04-20 06:43:36 +0000  Processing step: IDEDistributionAppThinningStep
+2021-04-20 06:43:36 +0000  Skipping step: IDEDistributionAppThinningStep because it said so
+2021-04-20 06:43:36 +0000  Processing step: IDEDistributionArchThinningStep
+2021-04-20 06:43:36 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/50/jn5_ssv17lzdw5tx7_3942vw0000gn/T/XcodeDistPipeline.~~~TszjlZ/Root/Payload/ARFoundationDemo.app/Frameworks/UnityFramework.framework/UnityFramework' '-verify_arch' 'arm64e'
+2021-04-20 06:43:36 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2021-04-20 06:43:36 +0000  Skipping architecture thinning for item "UnityFramework" because arch "arm64e" wasn't found
+2021-04-20 06:43:36 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/50/jn5_ssv17lzdw5tx7_3942vw0000gn/T/XcodeDistPipeline.~~~TszjlZ/Root/Payload/ARFoundationDemo.app/ARFoundationDemo' '-verify_arch' 'arm64e'
+2021-04-20 06:43:36 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2021-04-20 06:43:36 +0000  Skipping architecture thinning for item "ARFoundationDemo" because arch "arm64e" wasn't found
+2021-04-20 06:43:36 +0000  Processing step: IDEDistributionODRStep
+2021-04-20 06:43:36 +0000  Processing step: IDEDistributionStripXattrsStep
+2021-04-20 06:43:36 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7f986a0570f0; bundleID='com.unity3d.framework', path='<DVTFilePath:0x7f98780f6e10:'/Users/joanna31215/Library/Developer/Xcode/Archives/2021-04-20/Unity-iPhone 2021-4-20, 2.30 PM.xcarchive/Products/Applications/ARFoundationDemo.app/Frameworks/UnityFramework.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f98679f17a0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f986845e8f0; name='Apple Development: Yi Jyun Lin (486YWZ6D36)', hash='D1574CE5364B231E87E35F7886ACA505E6BE532F', serialNumber='<DVTSigningCertificateSerialNumber: 0x7f98783a1fe0>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-02-03 06:43:01 +0000''>', entitlements='(null)', teamID='9QTQNW5XVD', identifier='com.unity3d.framework', executablePath='<DVTFilePath:0x7f986a3d9b10:'/Users/joanna31215/Library/Developer/Xcode/Archives/2021-04-20/Unity-iPhone 2021-4-20, 2.30 PM.xcarchive/Products/Applications/ARFoundationDemo.app/Frameworks/UnityFramework.framework/UnityFramework'>', hardenedRuntime='0'>'>
+2021-04-20 06:43:36 +0000  Running /usr/bin/xattr '-crs' '/var/folders/50/jn5_ssv17lzdw5tx7_3942vw0000gn/T/XcodeDistPipeline.~~~TszjlZ/Root/Payload/ARFoundationDemo.app'
+2021-04-20 06:43:37 +0000  /usr/bin/xattr exited with 0
+2021-04-20 06:43:37 +0000  Processing step: IDEDistributionCodesignStep
+2021-04-20 06:43:37 +0000  Entitlements for <IDEDistributionItem: 0x7f986a0570f0; bundleID='com.unity3d.framework', path='<DVTFilePath:0x7f98780f6e10:'/Users/joanna31215/Library/Developer/Xcode/Archives/2021-04-20/Unity-iPhone 2021-4-20, 2.30 PM.xcarchive/Products/Applications/ARFoundationDemo.app/Frameworks/UnityFramework.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f98679f17a0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f988b06ef40; name='Apple Development: Yi Jyun Lin (486YWZ6D36)', hash='D1574CE5364B231E87E35F7886ACA505E6BE532F', serialNumber='<DVTSigningCertificateSerialNumber: 0x7f988f5fb420>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-02-03 06:43:01 +0000''>', entitlements='(null)', teamID='9QTQNW5XVD', identifier='com.unity3d.framework', executablePath='<DVTFilePath:0x7f986a3d9b10:'/Users/joanna31215/Library/Developer/Xcode/Archives/2021-04-20/Unity-iPhone 2021-4-20, 2.30 PM.xcarchive/Products/Applications/ARFoundationDemo.app/Frameworks/UnityFramework.framework/UnityFramework'>', hardenedRuntime='0'>'>: {
+}
+2021-04-20 06:43:37 +0000  Entitlements for <IDEDistributionItem: 0x7f986a0570f0; bundleID='com.unity3d.framework', path='<DVTFilePath:0x7f98780f6e10:'/Users/joanna31215/Library/Developer/Xcode/Archives/2021-04-20/Unity-iPhone 2021-4-20, 2.30 PM.xcarchive/Products/Applications/ARFoundationDemo.app/Frameworks/UnityFramework.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f98679f17a0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f9867d3c0f0; name='Apple Development: Yi Jyun Lin (486YWZ6D36)', hash='D1574CE5364B231E87E35F7886ACA505E6BE532F', serialNumber='<DVTSigningCertificateSerialNumber: 0x7f9867d2a030>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-02-03 06:43:01 +0000''>', entitlements='(null)', teamID='9QTQNW5XVD', identifier='com.unity3d.framework', executablePath='<DVTFilePath:0x7f986a3d9b10:'/Users/joanna31215/Library/Developer/Xcode/Archives/2021-04-20/Unity-iPhone 2021-4-20, 2.30 PM.xcarchive/Products/Applications/ARFoundationDemo.app/Frameworks/UnityFramework.framework/UnityFramework'>', hardenedRuntime='0'>'> are: {
+}
+2021-04-20 06:43:37 +0000  Writing entitlements for <IDEDistributionItem: 0x7f986a0570f0; bundleID='com.unity3d.framework', path='<DVTFilePath:0x7f98780f6e10:'/Users/joanna31215/Library/Developer/Xcode/Archives/2021-04-20/Unity-iPhone 2021-4-20, 2.30 PM.xcarchive/Products/Applications/ARFoundationDemo.app/Frameworks/UnityFramework.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f98679f17a0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f986d8f00e0; name='Apple Development: Yi Jyun Lin (486YWZ6D36)', hash='D1574CE5364B231E87E35F7886ACA505E6BE532F', serialNumber='<DVTSigningCertificateSerialNumber: 0x7f9878383770>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-02-03 06:43:01 +0000''>', entitlements='(null)', teamID='9QTQNW5XVD', identifier='com.unity3d.framework', executablePath='<DVTFilePath:0x7f986a3d9b10:'/Users/joanna31215/Library/Developer/Xcode/Archives/2021-04-20/Unity-iPhone 2021-4-20, 2.30 PM.xcarchive/Products/Applications/ARFoundationDemo.app/Frameworks/UnityFramework.framework/UnityFramework'>', hardenedRuntime='0'>'> to: /var/folders/50/jn5_ssv17lzdw5tx7_3942vw0000gn/T/XcodeDistPipeline.~~~TszjlZ/entitlements~~~idyfxd
+2021-04-20 06:43:37 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '68E06D4E701CD6655463DD577B6BB6F551533BDF' '--entitlements' '/var/folders/50/jn5_ssv17lzdw5tx7_3942vw0000gn/T/XcodeDistPipeline.~~~TszjlZ/entitlements~~~idyfxd' '--preserve-metadata=identifier,flags,runtime' '/var/folders/50/jn5_ssv17lzdw5tx7_3942vw0000gn/T/XcodeDistPipeline.~~~TszjlZ/Root/Payload/ARFoundationDemo.app/Frameworks/UnityFramework.framework'
+2021-04-20 06:43:38 +0000  /var/folders/50/jn5_ssv17lzdw5tx7_3942vw0000gn/T/XcodeDistPipeline.~~~TszjlZ/Root/Payload/ARFoundationDemo.app/Frameworks/UnityFramework.framework: signed bundle with Mach-O universal (armv7 arm64) [com.unity3d.framework]
+2021-04-20 06:43:38 +0000  /usr/bin/codesign exited with 0
+2021-04-20 06:43:38 +0000  Entitlements for <IDEDistributionItem: 0x7f986a3e5d30; bundleID='com.Zoustec.ARFoundationDemo', path='<DVTFilePath:0x7f9867f6e7c0:'/Users/joanna31215/Library/Developer/Xcode/Archives/2021-04-20/Unity-iPhone 2021-4-20, 2.30 PM.xcarchive/Products/Applications/ARFoundationDemo.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f9890b215c0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f986d8ec870; name='Apple Development: Yi Jyun Lin (486YWZ6D36)', hash='D1574CE5364B231E87E35F7886ACA505E6BE532F', serialNumber='<DVTSigningCertificateSerialNumber: 0x7f9878383770>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-02-03 06:43:01 +0000''>', entitlements='{
+    "application-identifier" = "9QTQNW5XVD.com.Zoustec.ARFoundationDemo";
+    "com.apple.developer.team-identifier" = 9QTQNW5XVD;
+    "get-task-allow" = 1;
+    "keychain-access-groups" =     (
+        "9QTQNW5XVD.com.Zoustec.ARFoundationDemo"
+    );
+}', teamID='9QTQNW5XVD', identifier='com.Zoustec.ARFoundationDemo', executablePath='<DVTFilePath:0x7f988f0c1990:'/Users/joanna31215/Library/Developer/Xcode/Archives/2021-04-20/Unity-iPhone 2021-4-20, 2.30 PM.xcarchive/Products/Applications/ARFoundationDemo.app/ARFoundationDemo'>', hardenedRuntime='0'>'>: {
+    "application-identifier" = "9QTQNW5XVD.com.Zoustec.ARFoundationDemo";
+    "com.apple.developer.team-identifier" = 9QTQNW5XVD;
+    "get-task-allow" = 0;
+    "keychain-access-groups" =     (
+        "9QTQNW5XVD.com.Zoustec.ARFoundationDemo"
+    );
+}
+2021-04-20 06:43:38 +0000  Entitlements for <IDEDistributionItem: 0x7f986a3e5d30; bundleID='com.Zoustec.ARFoundationDemo', path='<DVTFilePath:0x7f9867f6e7c0:'/Users/joanna31215/Library/Developer/Xcode/Archives/2021-04-20/Unity-iPhone 2021-4-20, 2.30 PM.xcarchive/Products/Applications/ARFoundationDemo.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f9890b215c0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f986a36e090; name='Apple Development: Yi Jyun Lin (486YWZ6D36)', hash='D1574CE5364B231E87E35F7886ACA505E6BE532F', serialNumber='<DVTSigningCertificateSerialNumber: 0x7f9868fc5640>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-02-03 06:43:01 +0000''>', entitlements='{
+    "application-identifier" = "9QTQNW5XVD.com.Zoustec.ARFoundationDemo";
+    "com.apple.developer.team-identifier" = 9QTQNW5XVD;
+    "get-task-allow" = 1;
+    "keychain-access-groups" =     (
+        "9QTQNW5XVD.com.Zoustec.ARFoundationDemo"
+    );
+}', teamID='9QTQNW5XVD', identifier='com.Zoustec.ARFoundationDemo', executablePath='<DVTFilePath:0x7f988f0c1990:'/Users/joanna31215/Library/Developer/Xcode/Archives/2021-04-20/Unity-iPhone 2021-4-20, 2.30 PM.xcarchive/Products/Applications/ARFoundationDemo.app/ARFoundationDemo'>', hardenedRuntime='0'>'> are: {
+    "application-identifier" = "9QTQNW5XVD.com.Zoustec.ARFoundationDemo";
+    "com.apple.developer.team-identifier" = 9QTQNW5XVD;
+    "get-task-allow" = 0;
+    "keychain-access-groups" =     (
+        "9QTQNW5XVD.com.Zoustec.ARFoundationDemo"
+    );
+}
+2021-04-20 06:43:38 +0000  Writing entitlements for <IDEDistributionItem: 0x7f986a3e5d30; bundleID='com.Zoustec.ARFoundationDemo', path='<DVTFilePath:0x7f9867f6e7c0:'/Users/joanna31215/Library/Developer/Xcode/Archives/2021-04-20/Unity-iPhone 2021-4-20, 2.30 PM.xcarchive/Products/Applications/ARFoundationDemo.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f9890b215c0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f988b06ef40; name='Apple Development: Yi Jyun Lin (486YWZ6D36)', hash='D1574CE5364B231E87E35F7886ACA505E6BE532F', serialNumber='<DVTSigningCertificateSerialNumber: 0x7f988f12e850>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-02-03 06:43:01 +0000''>', entitlements='{
+    "application-identifier" = "9QTQNW5XVD.com.Zoustec.ARFoundationDemo";
+    "com.apple.developer.team-identifier" = 9QTQNW5XVD;
+    "get-task-allow" = 1;
+    "keychain-access-groups" =     (
+        "9QTQNW5XVD.com.Zoustec.ARFoundationDemo"
+    );
+}', teamID='9QTQNW5XVD', identifier='com.Zoustec.ARFoundationDemo', executablePath='<DVTFilePath:0x7f988f0c1990:'/Users/joanna31215/Library/Developer/Xcode/Archives/2021-04-20/Unity-iPhone 2021-4-20, 2.30 PM.xcarchive/Products/Applications/ARFoundationDemo.app/ARFoundationDemo'>', hardenedRuntime='0'>'> to: /var/folders/50/jn5_ssv17lzdw5tx7_3942vw0000gn/T/XcodeDistPipeline.~~~TszjlZ/entitlements~~~SVoPeu
+2021-04-20 06:43:38 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '68E06D4E701CD6655463DD577B6BB6F551533BDF' '--entitlements' '/var/folders/50/jn5_ssv17lzdw5tx7_3942vw0000gn/T/XcodeDistPipeline.~~~TszjlZ/entitlements~~~SVoPeu' '--preserve-metadata=identifier,flags,runtime' '/var/folders/50/jn5_ssv17lzdw5tx7_3942vw0000gn/T/XcodeDistPipeline.~~~TszjlZ/Root/Payload/ARFoundationDemo.app'
+2021-04-20 06:43:38 +0000  /var/folders/50/jn5_ssv17lzdw5tx7_3942vw0000gn/T/XcodeDistPipeline.~~~TszjlZ/Root/Payload/ARFoundationDemo.app: signed app bundle with Mach-O universal (armv7 arm64) [com.Zoustec.ARFoundationDemo]
+2021-04-20 06:43:38 +0000  /usr/bin/codesign exited with 0
+2021-04-20 06:43:38 +0000  Processing step: IDEDistributionZipODRItemStep
+2021-04-20 06:43:38 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2021-04-20 06:43:38 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2021-04-20 06:43:38 +0000  Processing step: IDEDistributionCreateIPAStep
+2021-04-20 06:43:38 +0000  Running /usr/bin/ditto '-V' '-c' '-k' '--norsrc' '/var/folders/50/jn5_ssv17lzdw5tx7_3942vw0000gn/T/XcodeDistPipeline.~~~TszjlZ/Root' '/var/folders/50/jn5_ssv17lzdw5tx7_3942vw0000gn/T/XcodeDistPipeline.~~~TszjlZ/Packages/ARFoundationDemo.ipa'
+2021-04-20 06:43:38 +0000  >>> Copying /var/folders/50/jn5_ssv17lzdw5tx7_3942vw0000gn/T/XcodeDistPipeline.~~~TszjlZ/Root 
+2021-04-20 06:43:38 +0000  copying file ./Payload/ARFoundationDemo.app/_CodeSignature/CodeResources ... 
+2021-04-20 06:43:38 +0000  13621 bytes for ./Payload/ARFoundationDemo.app/_CodeSignature/CodeResources
+2021-04-20 06:43:38 +0000  copying file ./Payload/ARFoundationDemo.app/LaunchScreen-iPhonePortrait.png ... 
+138 bytes for ./Payload/ARFoundationDemo.app/LaunchScreen-iPhonePortrait.png
+2021-04-20 06:43:38 +0000  copying file ./Payload/ARFoundationDemo.app/LaunchScreen-iPhoneLandscape.png ... 
+2021-04-20 06:43:38 +0000  138 bytes for ./Payload/ARFoundationDemo.app/LaunchScreen-iPhoneLandscape.png
+copying file ./Payload/ARFoundationDemo.app/ARFoundationDemo ... 
+2021-04-20 06:43:38 +0000  168272 bytes for ./Payload/ARFoundationDemo.app/ARFoundationDemo
+copying file ./Payload/ARFoundationDemo.app/AppIcon60x60@2x.png ... 
+2021-04-20 06:43:38 +0000  2149 bytes for ./Payload/ARFoundationDemo.app/AppIcon60x60@2x.png
+copying file ./Payload/ARFoundationDemo.app/AppIcon60x60@3x.png ... 
+2021-04-20 06:43:38 +0000  3144 bytes for ./Payload/ARFoundationDemo.app/AppIcon60x60@3x.png
+copying file ./Payload/ARFoundationDemo.app/LaunchScreen-iPad.png ... 
+2021-04-20 06:43:38 +0000  138 bytes for ./Payload/ARFoundationDemo.app/LaunchScreen-iPad.png
+copying file ./Payload/ARFoundationDemo.app/LaunchScreen-iPad.storyboardc/UIViewController-UnityLaunchScreen-ViewController.nib ... 
+2021-04-20 06:43:38 +0000  934 bytes for ./Payload/ARFoundationDemo.app/LaunchScreen-iPad.storyboardc/UIViewController-UnityLaunchScreen-ViewController.nib
+copying file ./Payload/ARFoundationDemo.app/LaunchScreen-iPad.storyboardc/UnityLaunchScreen-ViewController-view-UnityLaunchScreen-RootView.nib ... 
+2021-04-20 06:43:38 +0000  2392 bytes for ./Payload/ARFoundationDemo.app/LaunchScreen-iPad.storyboardc/UnityLaunchScreen-ViewController-view-UnityLaunchScreen-RootView.nib
+copying file ./Payload/ARFoundationDemo.app/LaunchScreen-iPad.storyboardc/Info.plist ... 
+2021-04-20 06:43:38 +0000  333 bytes for ./Payload/ARFoundationDemo.app/LaunchScreen-iPad.storyboardc/Info.plist
+copying file ./Payload/ARFoundationDemo.app/Assets.car ... 
+2021-04-20 06:43:38 +0000  29624 bytes for ./Payload/ARFoundationDemo.app/Assets.car
+2021-04-20 06:43:38 +0000  copying file ./Payload/ARFoundationDemo.app/AppIcon76x76@2x~ipad.png ... 
+2021-04-20 06:43:38 +0000  2663 bytes for ./Payload/ARFoundationDemo.app/AppIcon76x76@2x~ipad.png
+copying file ./Payload/ARFoundationDemo.app/AppIcon83.5x83.5@2x~ipad.png ... 
+2021-04-20 06:43:38 +0000  2949 bytes for ./Payload/ARFoundationDemo.app/AppIcon83.5x83.5@2x~ipad.png
+2021-04-20 06:43:38 +0000  copying file ./Payload/ARFoundationDemo.app/LaunchScreen-iPhone.storyboardc/UIViewController-UnityLaunchScreen-ViewController.nib ... 
+934 bytes for ./Payload/ARFoundationDemo.app/LaunchScreen-iPhone.storyboardc/UIViewController-UnityLaunchScreen-ViewController.nib
+2021-04-20 06:43:38 +0000  copying file ./Payload/ARFoundationDemo.app/LaunchScreen-iPhone.storyboardc/UnityLaunchScreen-ViewController-view-UnityLaunchScreen-RootView.nib ... 
+2021-04-20 06:43:38 +0000  2402 bytes for ./Payload/ARFoundationDemo.app/LaunchScreen-iPhone.storyboardc/UnityLaunchScreen-ViewController-view-UnityLaunchScreen-RootView.nib
+copying file ./Payload/ARFoundationDemo.app/LaunchScreen-iPhone.storyboardc/Info.plist ... 
+2021-04-20 06:43:38 +0000  333 bytes for ./Payload/ARFoundationDemo.app/LaunchScreen-iPhone.storyboardc/Info.plist
+2021-04-20 06:43:38 +0000  copying file ./Payload/ARFoundationDemo.app/Frameworks/UnityFramework.framework/_CodeSignature/CodeResources ... 
+2021-04-20 06:43:38 +0000  1798 bytes for ./Payload/ARFoundationDemo.app/Frameworks/UnityFramework.framework/_CodeSignature/CodeResources
+copying file ./Payload/ARFoundationDemo.app/Frameworks/UnityFramework.framework/Info.plist ... 
+2021-04-20 06:43:38 +0000  758 bytes for ./Payload/ARFoundationDemo.app/Frameworks/UnityFramework.framework/Info.plist
+copying file ./Payload/ARFoundationDemo.app/Frameworks/UnityFramework.framework/UnityFramework ... 
+2021-04-20 06:43:42 +0000  41526544 bytes for ./Payload/ARFoundationDemo.app/Frameworks/UnityFramework.framework/UnityFramework
+2021-04-20 06:43:42 +0000  copying file ./Payload/ARFoundationDemo.app/embedded.mobileprovision ... 
+2021-04-20 06:43:42 +0000  7677 bytes for ./Payload/ARFoundationDemo.app/embedded.mobileprovision
+2021-04-20 06:43:42 +0000  copying file ./Payload/ARFoundationDemo.app/Data/Managed/TypesInScenes.xml ... 
+2021-04-20 06:43:42 +0000  6968 bytes for ./Payload/ARFoundationDemo.app/Data/Managed/TypesInScenes.xml
+2021-04-20 06:43:42 +0000  copying file ./Payload/ARFoundationDemo.app/Data/Managed/Resources/mscorlib.dll-resources.dat ... 
+2021-04-20 06:43:42 +0000  337563 bytes for ./Payload/ARFoundationDemo.app/Data/Managed/Resources/mscorlib.dll-resources.dat
+2021-04-20 06:43:42 +0000  copying file ./Payload/ARFoundationDemo.app/Data/Managed/UnityLinkerToEditorData.json ... 
+2021-04-20 06:43:42 +0000  11278 bytes for ./Payload/ARFoundationDemo.app/Data/Managed/UnityLinkerToEditorData.json
+2021-04-20 06:43:42 +0000  copying file ./Payload/ARFoundationDemo.app/Data/Managed/mono/4.0/machine.config ... 
+2021-04-20 06:43:42 +0000  33648 bytes for ./Payload/ARFoundationDemo.app/Data/Managed/mono/4.0/machine.config
+2021-04-20 06:43:42 +0000  copying file ./Payload/ARFoundationDemo.app/Data/Managed/EditorToUnityLinkerData.json ... 
+2021-04-20 06:43:42 +0000  81336 bytes for ./Payload/ARFoundationDemo.app/Data/Managed/EditorToUnityLinkerData.json
+2021-04-20 06:43:42 +0000  copying file ./Payload/ARFoundationDemo.app/Data/Managed/response.rsp ... 
+2021-04-20 06:43:42 +0000  1653 bytes for ./Payload/ARFoundationDemo.app/Data/Managed/response.rsp
+2021-04-20 06:43:42 +0000  copying file ./Payload/ARFoundationDemo.app/Data/Managed/Metadata/global-metadata.dat ... 
+2021-04-20 06:43:42 +0000  2416452 bytes for ./Payload/ARFoundationDemo.app/Data/Managed/Metadata/global-metadata.dat
+2021-04-20 06:43:42 +0000  copying file ./Payload/ARFoundationDemo.app/Data/globalgamemanagers ... 
+2021-04-20 06:43:42 +0000  57908 bytes for ./Payload/ARFoundationDemo.app/Data/globalgamemanagers
+2021-04-20 06:43:42 +0000  copying file ./Payload/ARFoundationDemo.app/Data/boot.config ... 
+62 bytes for ./Payload/ARFoundationDemo.app/Data/boot.config
+copying file ./Payload/ARFoundationDemo.app/Data/Resources/unity_builtin_extra ... 
+2021-04-20 06:43:42 +0000  544272 bytes for ./Payload/ARFoundationDemo.app/Data/Resources/unity_builtin_extra
+2021-04-20 06:43:42 +0000  copying file ./Payload/ARFoundationDemo.app/Data/unity default resources ... 
+2021-04-20 06:43:42 +0000  6347356 bytes for ./Payload/ARFoundationDemo.app/Data/unity default resources
+2021-04-20 06:43:42 +0000  copying file ./Payload/ARFoundationDemo.app/Data/sharedassets0.assets.resS ... 
+2021-04-20 06:43:43 +0000  8421628 bytes for ./Payload/ARFoundationDemo.app/Data/sharedassets0.assets.resS
+2021-04-20 06:43:43 +0000  copying file ./Payload/ARFoundationDemo.app/Data/sharedassets0.assets ... 
+2021-04-20 06:43:43 +0000  5045244 bytes for ./Payload/ARFoundationDemo.app/Data/sharedassets0.assets
+2021-04-20 06:43:43 +0000  copying file ./Payload/ARFoundationDemo.app/Data/level0 ... 
+2021-04-20 06:43:43 +0000  49888 bytes for ./Payload/ARFoundationDemo.app/Data/level0
+2021-04-20 06:43:43 +0000  copying file ./Payload/ARFoundationDemo.app/Data/globalgamemanagers.assets ... 
+2021-04-20 06:43:43 +0000  98188 bytes for ./Payload/ARFoundationDemo.app/Data/globalgamemanagers.assets
+2021-04-20 06:43:43 +0000  copying file ./Payload/ARFoundationDemo.app/Data/UnitySubsystems/UnityARKit/UnitySubsystemsManifest.json ... 
+2021-04-20 06:43:43 +0000  206 bytes for ./Payload/ARFoundationDemo.app/Data/UnitySubsystems/UnityARKit/UnitySubsystemsManifest.json
+copying file ./Payload/ARFoundationDemo.app/Info.plist ... 
+2021-04-20 06:43:43 +0000  1873 bytes for ./Payload/ARFoundationDemo.app/Info.plist
+copying file ./Payload/ARFoundationDemo.app/PkgInfo ... 
+2021-04-20 06:43:43 +0000  8 bytes for ./Payload/ARFoundationDemo.app/PkgInfo
+copying file ./Payload/ARFoundationDemo.app/AppIcon76x76~ipad.png ... 
+2021-04-20 06:43:43 +0000  2929 bytes for ./Payload/ARFoundationDemo.app/AppIcon76x76~ipad.png
+2021-04-20 06:43:43 +0000  /usr/bin/ditto exited with 0
+2021-04-20 06:43:43 +0000  Processing step: IDEDistributionAppStoreInformationStep
+2021-04-20 06:43:43 +0000  Skipping step: IDEDistributionAppStoreInformationStep because it said so
+2021-04-20 06:43:43 +0000  Processing step: IDEDistributionGenerateProcessedDistributionItems
+2021-04-20 06:43:43 +0000  IDEDistributionItem init <DVTFilePath:0x7f9868d7f8e0:'/var/folders/50/jn5_ssv17lzdw5tx7_3942vw0000gn/T/XcodeDistPipeline.~~~TszjlZ/Root/Payload/ARFoundationDemo.app/Frameworks/UnityFramework.framework'>
+2021-04-20 06:43:43 +0000  IDEDistributionItem init <DVTFilePath:0x7f9868fd6f10:'/var/folders/50/jn5_ssv17lzdw5tx7_3942vw0000gn/T/XcodeDistPipeline.~~~TszjlZ/Root/Payload/ARFoundationDemo.app'>
+2021-04-20 06:43:43 +0000  Processing step: IDEDistributionCreateManifestStep
